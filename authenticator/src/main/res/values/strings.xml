@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blockstack Authenticator</string>
+    <string name="authenticator">Blockstack</string>
+</resources>
